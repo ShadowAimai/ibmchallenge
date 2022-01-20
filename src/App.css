@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+input[type=button] {
+  background-color:#61dafb;
+}
